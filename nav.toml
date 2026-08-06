@@ -1,0 +1,16 @@
+# Left-nav order. Titles come from each page's front matter.
+
+[[section]]
+title = "Getting started"
+dir   = "getting-started"
+pages = ["overview", "install", "import-demo-data", "update-theme", "get-support", "elementor"]
+
+[[section]]
+title = "Components"
+dir   = "components"
+pages = ["dine-block-explained", "header", "off-canvas-menu", "footer", "set-up-homepage", "set-up-blog", "set-up-reservation-page", "dine-polylang"]
+
+[[section]]
+title = "Changelog"
+dir   = ""
+pages = ["changelog"]
