@@ -7,7 +7,7 @@ This article explains how [DINE] Block works and how to use it to build header, 
 
 ### What is [DINE] Block and why we need it?
 
-[DINE] Block is a custom post type, added in Dine theme. It's called "block" but you can think about it as a small post **to be included in othere areas** of the theme like Header, Footer.. The only purpose of each [DINE] Block is to be included in other parts (like header, footer). For instance, in [this demo](https://dine.withemes.com/dining/), the Header is actually a [DINE] block named "Header".
+[DINE] Block is a custom post type, added in Dine theme. It's called "block" but you can think about it as a small post **to be included in othere areas** of the theme like Header, Footer.. The only purpose of each [DINE] Block is to be included in other parts (like header, footer). For instance, in the Dining demo, the Header is actually a [DINE] block named "Header".
 
 The reason behind why we use [DINE] block is because: It's a post type so that we can use Elementor to build anything there. The Header Builder is actually using Elementor in [DINE] Block then use that block as the header.
 
