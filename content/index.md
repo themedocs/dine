@@ -7,7 +7,6 @@ Greetings!
 
 Thank you for purchasing [Dine WordPress theme](https://themeforest.net/item/dine-elegant-restaurant-theme/19489643). Here’s the official documentation page of the theme to help you get started with the theme.
 
-- **Current version**: 4.2.2
 - **Compatible with**: WordPress 6.9, [WooCommerce](https://wordpress.org/plugins/woocommerce/), [Elementor](https://wordpress.org/plugins/elementor/), PHP 7,8
 
 **General information:**
