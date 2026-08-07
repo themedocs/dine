@@ -51,9 +51,9 @@ It's because of the lack of Elementor Style. That's why we need the last step: i
 
 **Step 3.2**: Depending on which demo you chose, please download following Elementor style file:
 
-- [Dining](https://withemes.com/wp-content/uploads/2025/01/dining-elementor-style-kit.zip)
-- [Asian Food](https://withemes.com/wp-content/uploads/2025/01/asian-food-elementor-style-kit.zip)
-- [Robusta](https://withemes.com/wp-content/uploads/2025/01/robusta-elementor-style-kit.zip)
+- [Dining](/dine/assets/dining-elementor-style-kit.zip)
+- [Asian Food](/dine/assets/asian-food-elementor-style-kit.zip)
+- [Robusta](/dine/assets/robusta-elementor-style-kit.zip)
 
 ![](/dine/assets/Screen-Shot-2022-08-03-at-19.45.57-1024x776.png)
 
