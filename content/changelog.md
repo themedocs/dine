@@ -1,18 +1,25 @@
 ---
 title: "Changelog"
-description: ""
+description: "Every released version of the Dine theme, newest first."
 ---
 
 #### Version 4.2.2 - Jan 12, 2026
 
 ```
-- make Dine theme compatible with WordPress 6.9- fix: IE conditional- fix: onboard no plugins page- update: demolist + plugin list
+- make Dine theme compatible with WordPress 6.9
+- fix: IE conditional
+- fix: onboard no plugins page
+- update: demolist + plugin list
 ```
 
 #### Version 4.2.1 – January 23, 2025
 
 ```
-- feature: enable classic widget by default- fix: many minor issues- feature: make Dine compatible with WordPress 6.7.x, Elementor latest version- update Dine Elementor Addons to v1.3.1- update WPBakery page builder to v8.1
+- feature: enable classic widget by default
+- fix: many minor issues
+- feature: make Dine compatible with WordPress 6.7.x, Elementor latest version
+- update Dine Elementor Addons to v1.3.1
+- update WPBakery page builder to v8.1
 ```
 
 #### Version 4.2 – March 20, 2023
