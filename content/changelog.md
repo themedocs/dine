@@ -3,6 +3,17 @@ title: "Changelog"
 description: "Every released version of the Dine theme, newest first."
 ---
 
+#### Version 4.2.3 - Aug 9, 2026
+
+```
+- theme author is now HeronWP
+- update: documentation links now point to the new docs site
+- update: support links now point to the new support desk
+- update: demo list and plugin list are served from files.themepreview.site
+- fix: remove the outdated WPBakery default templates, which referenced the retired demo site
+- remove the hard-coded demo import list, superseded by the remote demo list
+```
+
 #### Version 4.2.2 - Jan 12, 2026
 
 ```
