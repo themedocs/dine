@@ -6,7 +6,6 @@ description: "Every released version of the Dine theme, newest first."
 #### Version 4.2.3 - Aug 9, 2026
 
 ```
-- theme author is now HeronWP
 - update: documentation links now point to the new docs site
 - update: support links now point to the new support desk
 - update: demo list and plugin list are served from files.themepreview.site
