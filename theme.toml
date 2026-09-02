@@ -1,7 +1,7 @@
 name     = "Dine"
 slug     = "dine"
 tagline  = "WordPress theme for restaurants and cafés"
-accent   = "#b45309"
+accent   = "#0000ff"   # heronwp.com's accent — every theme on the docs host wears it
 demo     = "https://dine.themepreview.site/"
 download = ""
 support  = "https://heronwp.support-desk.site/"
