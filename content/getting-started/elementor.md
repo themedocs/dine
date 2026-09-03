@@ -9,4 +9,4 @@ Plus, Dine adds a few number of Elementor addons via the plugin Dine Elementor A
 
 To install those plugins, please go to **Dashboard > Dine > Install Plugins**.
 
-If you are not familar with Elementor, please visit [their documentation](https://elementor.com/help/how-to-use-elementor/) (tutorial with videos)
+If you are not familar with Elementor, please visit [their documentation](https://elementor.com/help/) (tutorial with videos)

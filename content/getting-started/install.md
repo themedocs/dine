@@ -3,7 +3,7 @@ title: "Install"
 description: "Before installing Dine theme, you need to install WordPress. Please follow this guide for installing WordPress."
 ---
 
-Before installing Dine theme, you need to install WordPress. Please follow [this guide](https://wordpress.org/support/article/how-to-install-wordpress/) for installing WordPress.
+Before installing Dine theme, you need to install WordPress. Please follow [this guide](https://developer.wordpress.org/advanced-administration/before-install/howto-install/) for installing WordPress.
 
 #### **Step 1**: Download Theme
 
